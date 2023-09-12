@@ -1,0 +1,202 @@
+body {
+	/* background-image: url(back.jpg); */
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed
+}
+h1{
+	border-top: solid rgb(0,89,155) 3px;
+	border-bottom: solid rgb(0,89,155) 3px;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 5%;
+	text-align: center;
+	color: rgb(0,89,155);
+
+}
+/* h1 {
+	text-align: center;
+	background-color: rgb(255, 255, 255);
+	color: rgb(62, 62, 206);
+	text-align: center;
+	vertical-align: middle;
+} */
+
+canvas { 
+	width: 100%; height: auto;
+	float:right; 
+} 
+.main {
+	display: inline-block;
+	background-color: rgb(255, 255, 255);
+	color:rgb(0, 0, 0);
+	width: 83%;
+	margin: 1%;
+	text-align: center;
+	/* border: solid rgb(0,89,155) 5px; */
+}
+.menu {
+border: solid rgb(0,89,155) 3px;
+border-radius: 40px;
+  padding: 1%;
+  background: rgb(255, 255, 255);
+  float: left;
+  display: block;
+  width: 10%;
+  box-shadow: 5px 2px 8px rgba(0,0,0,.1);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; 
+  background-color: rgb(192, 224, 255);
+  border-radius: 30px;
+}
+.menu li {
+	text-align: center;
+	margin: 5% 0 0 0px;
+	}
+.menu a {
+  text-decoration: none;
+  display: block;  
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+  padding-right: 8%;
+  padding-top: 8%;
+  padding-bottom: 8%;
+  position: relative;
+  transition: .3s linear;
+}
+/*.menu a:after {
+  content:"\f18e";
+  font-family: FontAwesome;
+  position: absolute;
+  right: 5px;
+  color: white;
+  transition: .2s linear;
+}*/
+.menu a:hover {
+  background: rgb(0,89,155);
+  color: rgb(255, 255, 255);
+  border: solid rgb(0,89,155) 1px;
+  transition: border-radius 0.5s ease;
+  border-radius: 30px;
+  
+}
+.carbox {
+	width: 500px;
+	margin: 5px;
+	text-align: left;
+	font-size: 30px;
+	float: left;
+}
+.set {
+	border: solid rgb(0,89,155) 5px;
+	border-radius: 20px;
+	width: 83%;
+	font-size: 20px;
+	height: auto;
+	color: rgb(0, 0, 0);
+	margin: 5px;
+	text-align: center;
+	background-color: rgb(255, 255, 255);
+	float: left;
+}
+.set a:link{
+	font-size: 48px;
+	color: #da0202;
+	text-decoration: none;
+  }
+.set a:visited {
+	color: #d19b9b;
+  }
+
+.set a:hover {
+	border-top: 2px solid;
+	border-bottom: 2px solid;
+  }
+/* .history	{
+	border: solid Beige 2px;
+	width: 800px;
+	color: white;
+	height: 250px;
+	font-size: 20px;
+	margin: 5px;
+	text-align: left;
+	background-color: CadetBlue;
+	float: right;
+} */
+li {
+    list-style-type: none;
+}
+.table1 {
+	width: 90%;
+	text-align: center;
+}
+.table1 textarea{
+	width:60%; 
+	text-align: center;
+}
+.admin {
+	padding-right: 1%;
+	border: solid rgb(0,89,155) 5px;
+	background-color: rgb(255, 255, 255);
+	width: 10%;
+	height: auto;
+	float: right;
+}
+.but input {
+	height: 45px;
+	width: 15%;
+	background-color: white;
+	text-align: center;
+	border-color: red;
+	padding: 10px 40px;
+	font-size: 18px;
+}
+.main a {
+	padding: 1%;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+.main a:hover {
+	color: rgb(255, 255, 255);
+	background-color: rgb(0,89,155);
+}
+.but input:hover {
+	background-color: red;
+	color: white;
+}
+input[type=submit]{
+	cursor:pointer
+}
+form input{
+	margin:5px;
+}
+.add_but input {
+	background-color: white;
+	border-color: red;
+	padding: 10px 40px;
+	font-size: 18px;
+}
+.add_but input:hover {
+	background-color: red;
+	color: white;
+}
+h3 {
+	padding-left: 35%;
+	text-align: left;
+}
+
+.set p{
+	font-size: 32px;
+}
+.pas input{
+	width:20%; 
+	text-align: left;
+}
+.pas textarea{
+	width:20%; 
+	text-align: left;
+}

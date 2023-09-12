@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nissan Skyline GT-R C110 Kenmeri '73
+* source:	https://sketchfab.com/3d-models/nissan-skyline-gt-r-c110-kenmeri-73-1a950b81ee274a0eb8014bd84ba047f5
+* author:	Martin Trafas (https://sketchfab.com/Bexxie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nissan Skyline GT-R C110 Kenmeri '73" (https://sketchfab.com/3d-models/nissan-skyline-gt-r-c110-kenmeri-73-1a950b81ee274a0eb8014bd84ba047f5) by Martin Trafas (https://sketchfab.com/Bexxie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

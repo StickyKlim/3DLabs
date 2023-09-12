@@ -1,0 +1,11 @@
+Model Information:
+* title:	ford mustang 1968
+* source:	https://sketchfab.com/3d-models/ford-mustang-1968-5534e9b2d3ff48d3805694c508e680c7
+* author:	jinjinjin (https://sketchfab.com/thejinjinjin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ford mustang 1968" (https://sketchfab.com/3d-models/ford-mustang-1968-5534e9b2d3ff48d3805694c508e680c7) by jinjinjin (https://sketchfab.com/thejinjinjin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
